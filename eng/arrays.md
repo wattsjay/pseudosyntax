@@ -22,27 +22,27 @@
 ```
   <array_identifier>[<index>]
 ```
-1. Access range of items
+2. Access range of items
 ```
   <array_identifier>[<lower>:<upper>]
 ```
-2. Add item to start
+3. Add item to start
 ```
   <array_identifier>.add_to_start(<item>)
 ```
-3. Add item to end
+4. Add item to end
 ```
   <array_identifier>.add_to_end(<item>)
 ```
-4. Remove from start
+5. Remove from start
 ```
   <array_identifier>.remove_from_start()
 ```
-5. Remove from end
+6. Remove from end
 ```
   <array_identifier>.remove_from_end()
 ```
-6. Assign to index
+7. Assign to index
 ```
   <array_identifier>[<index>] ← <item>
 ```
