@@ -1,6 +1,7 @@
-# PseudoSyntax
+# Pseudocode Syntax
 
-Pseudocode syntax and templates designed for clear and idiomatic expression.
+Pseudocode syntax and templates designed for clear and idiomatic communication.
+It is inspired by and somewhat based on the reference listed below with the most notable changes made to the case system.
 
 ## References
 
