@@ -50,3 +50,11 @@
 ```
   <array_identifier>.length()
 ```
+9. Get Maximum
+```
+  <array_identifier>.max()
+```
+10. Get Minimum
+```
+  <array_identifier>.min()
+```
