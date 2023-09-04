@@ -1,6 +1,6 @@
 # Composites
 
-[← Arrays](./arrays.md) | [Index](./index.md) | [Enumerations →](./enumerations.md)
+[← Arrays](./arrays.md) | [Index](../readme.md) | [Enumerations →](./enumerations.md)
 
 ## Declaring
 

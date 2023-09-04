@@ -1,6 +1,6 @@
 # Style
 
-[Index](./index.md) | [Primitives →](./primitives.md)
+[Index](../readme.md) | [Primitives →](./primitives.md)
 
 ## Case
 
@@ -12,9 +12,7 @@
 2. Identifiers, properties, and methods are in _snake-case_.
 ```
   number_of_items : Integer ← 100
-  DECLARE user : User ← {
-    DECLARE date_of_birth : Date ← 1984
-  }
+  DECLARE user.date_of_birth ← 1984
 ```
 3. Types are in _camel-case_.
 ```

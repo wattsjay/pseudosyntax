@@ -1,9 +1,9 @@
 # Arrays
 
-[← Primitives](./primitives.md) | [Index](./index.md) | [Composites →](./composites.md)
+[← Primitives](./primitives.md) | [Index](../readme.md) | [Composites →](./composites.md)
 
 > **NOTE**
-> As stated in the [style](./style.md) doc, identifiers that are written in snake-case and enclosed in `<>` are meta variables. For example below `Array[<lower>:<upper>]` could potentially be written as `Array[0:5]`.
+> As stated in the [style](./style.md) doc, identifiers that are written in snake-case and enclosed in `<>` are meta variables. For example below `Array[<lower>:<upper>]` could be written as `Array[0:5]`.
 
 ## Declaring
 

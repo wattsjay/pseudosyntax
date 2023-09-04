@@ -1,10 +1,11 @@
 # Enumerations
 
-[← Composites](./composites.md) | [Index](./index.md) | [Operations →](./operations.md)
+[← Composites](./composites.md) | [Index](../readme.md) | [Operations →](./operations.md)
 
 ## Declaration
 
-Type declarations use the `=` symbol, not `←` used by variable assignment.
+> **NOTE**
+> Type declarations use the `=` symbol, not `←` used by variable assignment.
 
 ```
   TYPE <identifier> = (<option_1>, <option_2>, <option_3>, ...)

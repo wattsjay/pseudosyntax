@@ -1,6 +1,6 @@
 # Primitives
 
-[← Style](./style.md) | [Index](./index.md) | [Arrays →](./arrays.md)
+[← Style](./style.md) | [Index](../readme.md) | [Arrays →](./arrays.md)
 
 ## Types
 
@@ -24,18 +24,18 @@
 ```
   DECLARE is_read : Boolean ← false  
 ```
-6. Date: A calendar date in the format of `YYYY-MM-DD`.
+6. Date: A calendar date in the format of `'YYYY-MM-DD'`.
 ```
   DECLARE birthday : Date ← '1984-06-30'  
 ```
 7. Literal: A primitive with a set value.
 ```
-  CONSTANT frames_per_second ← 60 // It does not have a Type annotation
+  CONSTANT frames_per_second ← 60 // It does not have a type annotation.
 ```
 8. Function or Procedures
 ```
-  // This only applies to functions and procedures
-  // used as types.
+  // This only applies to functions'
+  // and procedures' type annotations.
   (args) => Boolean
 ```
 
