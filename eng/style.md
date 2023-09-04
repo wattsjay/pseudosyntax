@@ -14,7 +14,7 @@
   number_of_items : Integer ← 100
   DECLARE user.date_of_birth ← 1984
 ```
-3. Types are in _camel-case_.
+3. Types and Classes are in _camel-case_.
 ```
   items : PriorityQueue ← [] 
 ```

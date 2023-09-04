@@ -1,10 +1,10 @@
 # Pseudocode Syntax
 
 <p align="center">
-  <img style="max-width: 500px; border-radius: 0.5rem;" src="./assets/silicon-valley-whiteboarding.jpg" />
+  <img src="./assets/landing.jpg" />
 </p>
 
-Pseudocode syntax and templates designed for clear and idiomatic communication. It is inspired by and somewhat based on the reference listed below with the most notable changes made to the case system, and the addition of generic methods for common data types.
+Pseudocode syntax and templates designed for clear and idiomatic communication. It is inspired by and somewhat based on the reference listed below with the most notable changes made to the case system, and the addition of generic methods for common data types. Furthermore, verbose descriptions have been replaced in favor of simple self-explanatory examples.
 
 The aim here is to create a consistent system that can be used especially for technical documentation, whereas for whiteboarding, consistency is probably less important.
 
@@ -20,7 +20,10 @@ The aim here is to create a consistent system that can be used especially for te
 8. [Iterations](./eng/iterations.md)
 9. [Procedures & Functions](./eng/procedures_and_functions.md)
 10. [OOP](./eng/oop.md)
-11. [Symbols](./eng/symbols.md)
+
+## Contribution
+
+Contributions of any kind are welcome.
 
 ## References
 

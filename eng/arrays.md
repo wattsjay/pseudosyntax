@@ -46,3 +46,7 @@
 ```
   <array_identifier>[<index>] ← <item>
 ```
+8. Get Length
+```
+  <array_identifier>.length()
+```
